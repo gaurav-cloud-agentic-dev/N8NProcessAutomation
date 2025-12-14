@@ -20,3 +20,12 @@ This workflow:
 
 ## How to Import
 - n8n → Import Workflow → Upload JSON
+
+## 🔐 Environment Variables
+
+Set the following environment variables in n8n:
+
+```env
+TAVILY_API_KEY=your_api_key_here
+SERPAPI_KEY=your_serpapi_key_here
+GMAIL_FROM_ADDRESS=your_email@example.com

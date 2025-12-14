@@ -21,7 +21,7 @@ This workflow:
 ## How to Import
 - n8n → Import Workflow → Upload JSON
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Set the following environment variables in n8n:
 
